@@ -4,6 +4,8 @@
 
 Releases 中下载完整程序包 解压即用
 
+Releases:https://github.com/boxbounce/video_downloader/releases
+
 解压软件：https://www.7-zip.org/
 
 视频播放软件：https://www.videolan.org/vlc/
